@@ -1,0 +1,4 @@
+# Copyright (c) 2026 Adekunle Akeju. All rights reserved except as licensed.
+# Security Write-ups by Adekunle Akeju, created by Adekunle Akeju. SPDX-License-Identifier: CC-BY-SA-4.0
+[tool.pytest.ini_options]
+testpaths = ["tests"]
